@@ -96,7 +96,7 @@
 - 💼 **Services:** Cybersecurity consulting, web development, AI solutions.
 - 📩 **Contact / Collaborations:** Reach out via [LinkedIn](https://www.linkedin.com/in/mohammed-laidi-30ba7529a) or [Instagram](https://www.instagram.com/mohammed_ld_2) for startup, freelance, or research discussions.
 
-> Save the gold Cogito icon you sent as `assets/cogito-logo.png` in this repo to activate the logo above. Tip: use a transparent-background PNG (not black background) so it looks clean on GitHub white background.
+> Cogito logo — three figures in a triangle, symbolizing collaboration and collective intelligence.
 
 ---
 
