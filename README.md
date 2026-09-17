@@ -32,7 +32,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 Cybersecurity Student focused on offensive & defensive security, networks, and AI-driven threat detection  
+- 🎓 Cybersecurity Student at University Oran 1 Ahmed Ben Bella — focused on offensive & defensive security, networks, and AI-driven threat detection  
 - 💼 Freelancer delivering real-world solutions in cybersecurity, web development & AI  
 - 🚀 Founder & Owner of Cogito — building innovative tech solutions  
 - 📜 Holder of a براءة اختراع (official patent)  
