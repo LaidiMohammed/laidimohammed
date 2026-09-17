@@ -13,7 +13,7 @@
 
   <!-- Social Links -->
   <p>
-    <a href="https://www.instagram.com/mohammed_ld_2">
+    <a href="https://www.instagram.com/mohammed_ld_4">
       <img src="https://img.icons8.com/color/48/instagram-new.png" width="42" alt="Instagram"/>
     </a>
     <a href="https://www.linkedin.com/in/mohammed-laidi-30ba7529a">
@@ -94,7 +94,7 @@
 - 🧠 **What is Cogito?** Innovative tech startup building secure, intelligent solutions at the intersection of cybersecurity, AI, and data science.
 - 🎯 **Mission:** Turning knowledge into real impact — from penetration testing to intelligent systems.
 - 💼 **Services:** Cybersecurity consulting, web development, AI solutions.
-- 📩 **Contact / Collaborations:** Reach out via [LinkedIn](https://www.linkedin.com/in/mohammed-laidi-30ba7529a) or [Instagram](https://www.instagram.com/mohammed_ld_2) for startup, freelance, or research discussions.
+- 📩 **Contact / Collaborations:** Reach out via [LinkedIn](https://www.linkedin.com/in/mohammed-laidi-30ba7529a) or [Instagram](https://www.instagram.com/mohammed_ld_4) for startup, freelance, or research discussions.
 
 > Cogito logo — three figures in a triangle, symbolizing collaboration and collective intelligence.
 
@@ -105,7 +105,7 @@
 I'm always open to collaborations, freelance projects, research, or startup discussions.
 
 - LinkedIn → [mohammed-laidi](https://www.linkedin.com/in/mohammed-laidi-30ba7529a)  
-- Instagram → [@mohammed_ld_2](https://www.instagram.com/mohammed_ld_2)  
+- Instagram → [@mohammed_ld_4](https://www.instagram.com/mohammed_ld_4)  
 - X (Twitter) → [@mohamed_ld_42](https://x.com/mohamed_ld_42)
 
 ---
