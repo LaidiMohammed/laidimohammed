@@ -86,8 +86,8 @@
 ### 🚀 Cogito — My Startup
 
 <div align="center">
-  <!-- TODO: Add your Cogito logo at assets/cogito-logo.png and uncomment below -->
-  <!-- <img src="assets/cogito-logo.png" width="180" alt="Cogito Logo"/> -->
+  <img src="assets/cogito-logo.png" width="180" alt="Cogito Logo"/>
+  <br/>
   <img src="https://img.shields.io/badge/Cogito-Innovative_Tech_Solutions-0A66C2?style=for-the-badge&logo=lightbulb&logoColor=white"/>
 </div>
 
@@ -96,7 +96,7 @@
 - 💼 **Services:** Cybersecurity consulting, web development, AI solutions.
 - 📩 **Contact / Collaborations:** Reach out via [LinkedIn](https://www.linkedin.com/in/mohammed-laidi-30ba7529a) or [Instagram](https://www.instagram.com/mohammed_ld_2) for startup, freelance, or research discussions.
 
-> To activate the logo: create `assets/cogito-logo.png` in this repo and uncomment the `<img>` line above.
+> Save the gold Cogito icon you sent as `assets/cogito-logo.png` in this repo to activate the logo above. Tip: use a transparent-background PNG (not black background) so it looks clean on GitHub white background.
 
 ---
 
