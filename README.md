@@ -104,9 +104,14 @@
 
 I'm always open to collaborations, freelance projects, research, or startup discussions.
 
-- LinkedIn → [mohammed-laidi](https://www.linkedin.com/in/mohammed-laidi-30ba7529a)  
-- Instagram → [@mohammed_ld_4](https://www.instagram.com/mohammed_ld_4)  
-- X (Twitter) → [@mohamed_ld_42](https://x.com/mohamed_ld_42)
+<p>
+  <a href="mailto:hamada.laidi.14@gmail.com"><img src="https://cdn.simpleicons.org/gmail/8b949e" width="18" alt="Email"/></a>&nbsp;hamada.laidi.14@gmail.com<br/>
+  <a href="https://www.linkedin.com/in/mohammed-laidi-30ba7529a"><img src="https://cdn.simpleicons.org/linkedin/8b949e" width="18" alt="LinkedIn"/></a>&nbsp;in/mohammed-laidi-30ba7529a<br/>
+  <a href="https://www.instagram.com/mohammed_ld_4"><img src="https://cdn.simpleicons.org/instagram/8b949e" width="18" alt="Instagram"/></a>&nbsp;mohammed_ld_4<br/>
+  <a href="https://x.com/mohamed_ld_42"><img src="https://cdn.simpleicons.org/x/8b949e" width="18" alt="X"/></a>&nbsp;@mohamed_ld_42<br/>
+  <a href="https://www.facebook.com/share/1BysrDA9pc/"><img src="https://cdn.simpleicons.org/facebook/8b949e" width="18" alt="Facebook"/></a>&nbsp;Facebook<br/>
+  <a href="https://ulys-immo-demo.vercel.app"><img src="https://cdn.simpleicons.org/vercel/8b949e" width="18" alt="Website"/></a>&nbsp;ulys-immo-demo.vercel.app
+</p>
 
 ---
 
